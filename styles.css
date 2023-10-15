@@ -1,0 +1,9 @@
+.alert{
+    background-color: rgb(246, 207, 207);
+    color: maroon;
+}
+
+.header{
+    background-color: rgb(215, 213, 213);
+    padding-left: 15px;
+}
